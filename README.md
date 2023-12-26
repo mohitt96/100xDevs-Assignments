@@ -1,0 +1,1 @@
+This repository consists of the assignments from the 100xDevs Cohort.
